@@ -1,0 +1,33 @@
+Template info:
+
+Group: jackietreehornpublishing
+Name: flask-rest-service-template
+Version 1.0.0-SNAPSHOT
+
+Backing GitHub repo:
+Owner: jackietreehornpublishing
+Repo: flask-rest-service-template
+Branch: master
+Path (within repo): 
+sha: 5bae88bcc05a48b6a9085f1d0e59c9d439ee2a8f
+
+
+Parameter values (passed in on template invocation):
+description='null'
+package_name='mypackage'
+team-id='T1KHULA3E'
+name='jackiesfirstpythonservice'
+repository_url='myurl'
+template='flask-rest-service-template'
+user-id='U1KGQ9YGK'
+author='russmiles'
+group_id='jackietreehornpublishing'
+org='jackietreehornpublishing'
+author_email='russ@russmiles.com'
+version='0.0.1'
+artifact_id='jackiesfirstpythonservice'
+visibility='public'
+
+Computed parameter values (computed based on parameter values passed in):
+date_time='05 07 2016 '
+creation_date='2016-07-05'

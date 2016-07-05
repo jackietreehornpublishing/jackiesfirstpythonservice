@@ -1,0 +1,16 @@
+flask
+
+# HTTP server
+cherrypy
+
+# HTTP requests logger
+wsgi-request-logger
+
+# Swagger
+apispec
+marshmallow
+
+# Testing
+pytest
+pytest-cov
+pytest-flake8

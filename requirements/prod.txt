@@ -1,0 +1,11 @@
+flask
+
+# HTTP server
+cherrypy
+
+# HTTP requests logger
+wsgi-request-logger
+
+# Swagger
+apispec
+marshmallow
